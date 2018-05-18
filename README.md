@@ -79,6 +79,7 @@ chmod +x shadowsocks-all.sh
 wget -N --no-check-certificate https://freed.ga/kernel/ruisu.sh && bash ruisu.sh
 
 wget -N --no-check-certificate https://github.com/91yun/serverspeeder/raw/master/serverspeeder.sh && bash serverspeeder.sh
+
 若提示：The name of network interface is not eth0, please retry after changing the name.请使用备用脚本
 
 备用脚本 wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspeeder/master/serverspeeder-all.sh && bash serverspeeder-all.sh
