@@ -18,6 +18,7 @@ PS(手机版的去PP助手搜索正版应用不是越狱应用（shadowrocket）
 
 
 2.选择选择服务器的系统类型，选了默认的centos 6 X64，后面好搭建加速
+
 3.选择服务器的空间大小，按需求选择，我选择了第一个5刀，基本够用了。
 其他选默认即可
 
@@ -83,3 +84,4 @@ wget -N --no-check-certificate https://github.com/91yun/serverspeeder/raw/master
 备用脚本 wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspeeder/master/serverspeeder-all.sh && bash serverspeeder-all.sh
 
 快去体验极速科学上网吧～
+
