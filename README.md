@@ -45,11 +45,12 @@ wget —no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent
 ![Image text](https://github.com/TeeMoYan/Vurtl-shadowrocket/blob/master/Screenshots/6.png)
 
 2.然后输入这个条命令
+
 chmod +x shadowsocks-all.sh
 如果失败，shadowsocks-all替换为上图已保存“”引号中的即可  chmod +x shadowsocks-libev-debian.sh
 
 3.然后输入这个条命令
-然后输入这条命令
+
 ./shadowsocks-all.sh 2>&1 | tee shadowsocks-all.log
 如果失败，shadowsocks-all替换为上图已保存“”引号中的即可    ./shadowsocks-libev-debian.sh 2>&1 | tee shadowsocks-libev-debian.log
 输入完成后，如下：服务器部署选第1个即可，然后输入密码。别忘记了
