@@ -4,7 +4,7 @@
 
 PS(手机版的去PP助手搜索正版应用不是越狱应用（shadowrocket）下载即可，如果提示一直输入appid账号，下载电脑版pp助手，点击修复即可。
 
-注册链接：送25美元：冲5美元送25美元。支持支付宝，（支付宝无优惠）（PS 冲值前，选other 填写5美元。看到右方显示送25美元时再充值。
+注册链接：送25美元：冲5美元送25美元。支持支付宝，（支付宝无优惠）（PS 冲值前，选other 填写5美元。看到右方显示送25美元时再充值。活动地址：https://www.cnvultr.com/go/promo25bd(如果注册账户看不到赠送，则表示结束)
 
 提示：支付时支付方式选paypal  在右方显示送25美元了！再充值即可！
 ![Image text](https://github.com/TeeMoYan/Vurtl-shadowrocket/blob/master/Screenshots/1.png)
