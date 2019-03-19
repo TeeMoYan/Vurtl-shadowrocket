@@ -39,7 +39,7 @@ ssh root@12.12.12.12  （root 刚才的用户名，12.12.12.12.刚才的ip）
 回车后 输入密码（刚才的密码，可以直接复制）
 
 1.然后输入这个条命令
-wget —no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh
+wget —no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh
 成功后如下图
 
 ![Image text](https://github.com/TeeMoYan/Vurtl-shadowrocket/blob/master/Screenshots/6.png)
